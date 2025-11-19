@@ -6,12 +6,12 @@ login-iso777.pages.dev
 iso777-ori.live
 luckyiso777.online
 
-#55iso777.site
 55iso777.online
-#55iso777.live
-#56iso777.site
 56iso777.live
 56iso777.online
+57iso777.online
+57iso777.site
+57iso777.live
 
 # MS ISO777
 eidosnapoli.com
@@ -26,13 +26,11 @@ assiraathospital.globaladvertising.io
 official-iso777.pages.dev
 cekiso777.pages.dev
 oshetaabout.pages.dev
-#pitchinvasion6.pages.dev
-#pitchinvasion7.pages.dev
 #pitchinvasion8.pages.dev
-#kankuro.pages.dev
 kankuro2.pages.dev
 #assiraathospital.pages.dev
 #assirat2.pages.dev
+assirat4.pages.dev
 wlogan.pages.dev
 
 #HIU777
@@ -65,3 +63,4 @@ jasjusleci.pages.dev
 crownlifters.pages.dev
 decibe.pages.dev
 dattebayu.pages.dev
+
