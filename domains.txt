@@ -14,7 +14,7 @@ luckyiso777.online
 57iso777.live
 
 # MS ISO777
-eidosnapoli.com
+#eidosnapoli.com
 
 # LP ISO777
 #osheta.com
@@ -63,3 +63,4 @@ jasjusleci.pages.dev
 crownlifters.pages.dev
 decibe.pages.dev
 dattebayu.pages.dev
+
