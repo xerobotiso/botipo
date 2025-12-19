@@ -45,13 +45,13 @@ winetragacor.pages.dev
 58iso777.pages.dev
 restoration-4.pages.dev
 riverlinechicago.pages.dev
+mujeresfrentealapandemia.pages.dev
 
 ### HIU777 ###
 #hiu777.online
 #hiu777in.site
 hiu777in.online
 hiu777in.pro
-8hiu777.com
 8hiu777.online
 10hiu777.online
 serverluar.net
@@ -62,9 +62,12 @@ hiu777up.site
 hiu777up.live
 hiu777pro.site
 hiu777pro.online
-15hiu777.com
 hiu777cek.pro
 hiu777cek.online
+
+### MS-HIU777 ###
+8hiu777.com
+15hiu777.com
 
 ### LP-HIU777 ###
 crownlifters.com
@@ -76,6 +79,9 @@ coduzion.com
 arquls.userena.cl
 insekta.co.id
 commonprojectsus.com
+pace.userena.cl/standvirtual/
+arquls.userena.cl
+mauri-restaurant.com
 
 ### AMP-HIU777 ###
 8hiu777.pages.dev
@@ -92,8 +98,5 @@ keepx5000.pages.dev
 insect5k.pages.dev
 commonprojectsus.pages.dev
 naname.pages.dev
-
-
-
-
-
+pacebang.pages.dev
+maur.pages.dev
