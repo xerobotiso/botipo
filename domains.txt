@@ -99,4 +99,3 @@ insect5k.pages.dev
 commonprojectsus.pages.dev
 naname.pages.dev
 pacebang.pages.dev
-maur.pages.dev
