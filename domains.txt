@@ -66,7 +66,7 @@ hiu777cek.pro
 hiu777cek.online
 
 ### MS-HIU777 ###
-8hiu777.com
+#8hiu777.com
 15hiu777.com
 
 ### LP-HIU777 ###
