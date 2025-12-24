@@ -54,7 +54,7 @@ hiu777in.pro
 hiu777in.online
 
 # MS HIU
-8hiu777.com
+#8hiu777.com
 15hiu777.com
 
 # AMP MS HIU
@@ -71,7 +71,7 @@ commonprojectsus.com
 # AMP LP HIU
 pacebang.pages.dev
 keepx5000.pages.dev
-maur.pages.dev
+maur2.pages.dev
 insect5k.pages.dev
 commonprojectsus.pages.dev
 
@@ -84,3 +84,4 @@ hiu777rtp.live
 
 # MYSTERY BOX
 box-hiu777.cc
+
