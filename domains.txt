@@ -46,6 +46,9 @@ hiu777up.site
 hiu777cek.online
 hiu777in.pro
 8hiu777.online
+hiu777max.online
+hiu777max.live
+hiu777max.pro
 
 # ADS HIU
 hiu777pro.site
@@ -81,6 +84,7 @@ hiu777rtp.live
 
 # MYSTERY BOX
 box-hiu777.cc
+
 
 
 
