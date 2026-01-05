@@ -19,7 +19,7 @@ interiors1.pages.dev
 thacademic.pages.dev
 #iso777.com
 iso777-gacor-1.pages.dev
-iso777.cekrtp.live
+#iso777.cekrtp.live
 rtpnow.online
 
 iso777-luckyspin.online
@@ -36,7 +36,7 @@ hiu777on.site
 
 hiu777in.live
 9hiu777.online
-8hiu777.com
+#8hiu777.com
 arquls.userena.cl
 commonprojectsus.com
 
@@ -57,4 +57,5 @@ b-cdns.pages.dev
 serverluar.net
 hiu777rtp.live
 box-hiu777.cc
+
 
