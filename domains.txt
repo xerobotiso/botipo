@@ -17,9 +17,9 @@ nipponhasha.pages.dev
 interiors1.pages.dev
 
 thacademic.pages.dev
-#iso777.com
+iso777-official.com
 iso777-gacor-1.pages.dev
-#iso777.cekrtp.live
+iso777-official.pages.dev
 rtpnow.online
 
 iso777-luckyspin.online
@@ -57,5 +57,6 @@ b-cdns.pages.dev
 serverluar.net
 hiu777rtp.live
 box-hiu777.cc
+
 
 
