@@ -80,9 +80,10 @@ slotgacoridaman.pages.dev
 gg-kalo-naik.pages.dev
 mujeresfrentealapandemia.pages.dev
 elearningiu.pages.dev
-puntenmamang.online
+#puntenmamang.online
 
 hiu777aja.site
 hiu777aja.live
 hiu777aja.online
+
 
