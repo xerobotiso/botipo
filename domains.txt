@@ -2,7 +2,7 @@ iso777-official.com
 iso777-official.pages.dev
 serverluar.com
 #59iso777.online
-60iso777.site
+#60iso777.site
 
 #60iso777.online
 60iso777.live
@@ -96,3 +96,4 @@ seminariodistoriadellascienza.pages.dev
 
 crownlifters.com
 crownback.pages.dev
+
