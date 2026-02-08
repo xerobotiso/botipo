@@ -35,7 +35,7 @@ hiu777in.pro
 #hiu777max.online
 
 #hiu777on.site
-hiu777in.live
+#hiu777in.live
 #9hiu777.online
 #8hiu777.com
 arquls.userena.cl
@@ -83,7 +83,7 @@ elearningiu.pages.dev
 #puntenmamang.online
 
 hiu777aja.site
-hiu777aja.live
+#hiu777aja.live
 hiu777aja.online
 61iso777.live
 61iso777.site
@@ -96,5 +96,6 @@ seminariodistoriadellascienza.pages.dev
 
 crownlifters.com
 crownback.pages.dev
+
 
 
