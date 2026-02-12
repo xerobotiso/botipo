@@ -24,12 +24,12 @@ iso777-gacor-1.pages.dev
 
 rtpnow.online
 iso777-luckyspin.online
-hiu777pro.site
+#hiu777pro.site
 hiu777pro.online
 hiu777up.pro
 
 hiu777up.site
-hiu777in.pro
+#hiu777in.pro
 8hiu777.online
 15hiu777.com
 #hiu777max.online
@@ -99,4 +99,5 @@ crownback.pages.dev
 hiu777site.online
 hiu777max.site
 hiu777site.live
+
 
