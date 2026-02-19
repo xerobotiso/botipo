@@ -85,7 +85,7 @@ elearningiu.pages.dev
 #hiu777aja.site
 #hiu777aja.live
 hiu777aja.online
-61iso777.live
+#61iso777.live
 61iso777.site
 
 journals.iunajaf.edu.iq
@@ -108,3 +108,4 @@ hiu777org.site
 hiu777org.pro
 hiu777org.online
 hiu777org.live
+
