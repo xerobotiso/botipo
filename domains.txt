@@ -28,7 +28,7 @@ iso777-luckyspin.online
 hiu777pro.online
 hiu777up.pro
 
-hiu777up.site
+#hiu777up.site
 #hiu777in.pro
 8hiu777.online
 15hiu777.com
@@ -121,5 +121,6 @@ touristic.pages.dev
 iso777-vip.com
 iso777-new-vip.pages.dev
 amp-hiu777-cdn.pages.dev
+
 
 
