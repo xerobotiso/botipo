@@ -102,7 +102,7 @@ hiu777max.site
 
 #61iso777.online
 #61iso777.website
-61iso777.shop
+#61iso777.shop
 hiu777org.site
 hiu777org.pro
 
@@ -126,4 +126,5 @@ amp-hiu777-cdn.pages.dev
 
 62iso777.skin
 #ccr-slot-gacor.pages.dev
+
 
