@@ -126,5 +126,6 @@ amp-hiu777-cdn.pages.dev
 
 62iso777.skin
 #ccr-slot-gacor.pages.dev
-ccr2-slot-gacor.pages.dev
+#ccr2-slot-gacor.pages.dev
 coralacademy.pages.dev
+
