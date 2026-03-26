@@ -138,8 +138,8 @@ tomaxteatro.it
 
 tomaxteatro2.pages.dev
 touristik.pages.dev
-wpuserplugin.pages.dev
+#wpuserplugin.pages.dev
 aakkamfoundation.org
 aakkamfoundation.pages.dev
 
-pace-paten-pangan.pages.dev
+#pace-paten-pangan.pages.dev
