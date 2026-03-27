@@ -143,3 +143,4 @@ aakkamfoundation.org
 aakkamfoundation.pages.dev
 
 #pace-paten-pangan.pages.dev
+paten-bang.pages.dev
