@@ -56,7 +56,7 @@ maur2.pages.dev
 venuepro2.pages.dev
 b-cdns.pages.dev
 serverluar.net
-hiu777rtp.live
+#hiu777rtp.live
 
 box-hiu777.cc
 slot88daftar.com
@@ -133,7 +133,7 @@ coralacademy.pages.dev
 coralacademy.org
 #hiu777id.pro
 hiu777id.site
-hiu777id.online
+#hiu777id.online
 tomaxteatro.it
 
 tomaxteatro2.pages.dev
