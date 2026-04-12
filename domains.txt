@@ -23,7 +23,7 @@ thacademic.pages.dev
 iso777-gacor-1.pages.dev
 
 rtpnow.online
-iso777-luckyspin.online
+#iso777-luckyspin.online
 #hiu777pro.site
 #hiu777pro.online
 hiu777up.pro
@@ -145,7 +145,7 @@ aakkamfoundation.pages.dev
 #pace-paten-pangan.pages.dev
 paten-bang.pages.dev
 #62iso777.live
-62iso777.space
+#62iso777.space
 62iso777.website
 
 antaya.com
@@ -155,7 +155,7 @@ touristik1.pages.dev
 antaya-company.pages.dev
 
 bimetacontact2.pages.dev
-iso777-rtpvip.online
+#iso777-rtpvip.online
 hiu777rtp.online
 63iso777.xyz
 63iso777.site
