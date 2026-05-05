@@ -81,3 +81,8 @@ kenapanyak-antaya2.pages.dev
 #63iso777.store
 kitacobamelampauiitu.pages.dev
 #touristik-napanyak.pages.dev
+
+ferninsulators.pages.dev
+transfer.bimeta.net
+touristik-slot.pages.dev
+startup.bimeta.net
