@@ -24,7 +24,7 @@ hiu777up.pro
 
 serverluar.net
 hiu777org.live
-hiu777ori.online
+#hiu777ori.online
 hiu777ori.store
 hiu777id.site
 
@@ -42,8 +42,8 @@ storagecontainers-2.pages.dev
 
 paten-bang.pages.dev
 rtpnow.online
-hiu777rtp.online
-box-hiu777.cc
+#hiu777rtp.online
+#box-hiu777.cc
 #8hiu777.com
 
 vedmantra.co.in
@@ -52,7 +52,7 @@ vedmantra1testimonials.pages.dev
 assirat-hancok.pages.dev
 iso777amp-vip.pages.dev
 
-gacor2.rtp-iso777live.website
+#gacor2.rtp-iso777live.website
 akgtechinfo.com
 #kenapanyak-antaya.pages.dev
 akgdigitalmkt1.pages.dev
@@ -62,7 +62,7 @@ lakadmatataaagg.pages.dev
 iso777-luckyspin.website
 wonderkidz.in
 storagecontainers.com
-crownlifters-company2.pages.dev
+#crownlifters-company2.pages.dev
 
 #gacor1.rtp-iso777live.website
 antaya2026-company-3.pages.dev
@@ -86,3 +86,7 @@ ferninsulators.pages.dev
 transfer.bimeta.net
 touristik-slot.pages.dev
 startup.bimeta.net
+rtphiu777.xyz
+
+box-hiu777.online
+gacor3.rtp-iso777live.website
