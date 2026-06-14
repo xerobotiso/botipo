@@ -36,7 +36,7 @@ serverluar.net
 #hiu777org.live
 #hiu777ori.online
 hiu777ori.store
-hiu777id.site
+#hiu777id.site
 
 #hiu777org.online
 #hiu777max.site
@@ -94,7 +94,7 @@ kitacobamelampauiitu.pages.dev
 ferninsulators.pages.dev
 transfer.bimeta.net
 touristik-slot.pages.dev
-rtphiu777.xyz
+#rtphiu777.xyz
 
 box-hiu777.online
 gacor3.rtp-iso777live.website
