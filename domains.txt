@@ -5,7 +5,7 @@ serverluar.com
 slot88daftar.com
 
 iso777-pro.online
-iso777-pro.live
+#iso777-pro.live
 63iso777.xyz
 #63iso777.space
 63iso777.website
@@ -35,7 +35,7 @@ hiu777up.pro
 serverluar.net
 #hiu777org.live
 #hiu777ori.online
-hiu777ori.store
+#hiu777ori.store
 #hiu777id.site
 
 #hiu777org.online
@@ -86,14 +86,16 @@ antaya2026-company-3.pages.dev
 #hiu777max.site
 #8hiu777.com
 
-#kenapanyak-antaya2.pages.dev
+#kenapanyak-antaya2.pages.dev
+
 #63iso777.store
 kitacobamelampauiitu.pages.dev
 #touristik-napanyak.pages.dev
 
 ferninsulators.pages.dev
 transfer.bimeta.net
-touristik-slot.pages.dev
+touristik-slot.pages.dev
+
 #rtphiu777.xyz
 
 box-hiu777.online
